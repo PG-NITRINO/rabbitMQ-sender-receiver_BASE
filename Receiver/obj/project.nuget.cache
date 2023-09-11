@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "phEGSGylwKop+732y8BrdhmwkHNDovWz1RWadwJ3ZHAEm/foEnp5yFhcIzM8r7o/3w4ad8fVFdv/3R/Io/tVKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khabi\\OneDrive\\Рабочий стол\\Programming\\Programs on C#\\RabbitMQ\\Altenar_solution_1\\Receiver\\Receiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khabi\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\khabi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\khabi\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
